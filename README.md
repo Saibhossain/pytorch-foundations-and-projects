@@ -22,7 +22,7 @@ This repository is released under the MIT License — see LICENSE for details.
 
 ## Contact
 
-Author: MD Saib hossain
+Author: MD Saib hossainm
 
 GitHub: https://github.com/Saibhossain
 
